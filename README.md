@@ -6,7 +6,8 @@ It uses a Machine Learning model integrated into a Streamlit dashboard for inter
 ---
 
 ## 📸 Demo Screenshot
-![Dashboard Screenshot](![Uploading Screenshot 2026-06-04 114121.png…]()
+![Dashboard Screenshot](<img width="1366" height="768" alt="Screenshot 2026-06-04 114121" src="https://github.com/user-attachments/assets/1f6c2da3-0630-438a-886c-93113440eb7e" />
+
 )
 
 *(Replace `screenshot.png` with your actual screenshot file name in the repo)*
