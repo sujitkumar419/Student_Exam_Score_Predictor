@@ -1,12 +1,12 @@
-# 🎓 Student Exam Score Prediction
+# 🎓 Student Exam Score Predictor
 
-A Machine Learning project to predict student exam scores using Linear Regression and advanced models.  
-This project includes an interactive Streamlit dashboard where users can input study-related parameters and get instant predictions.
+This project predicts the final exam score (G3) based on study time, past failures, absences, and previous grades (G1, G2).  
+It uses a Machine Learning model integrated into a Streamlit dashboard for interactive predictions.
 
 ---
 
 ## 📸 Demo Screenshot
-![Dashboard Screenshot](<img width="1366" height="768" alt="Screenshot 2026-06-04 114121" src="https://github.com/user-attachments/assets/cd37f7da-5c44-4185-bde8-6eff60f76cee" />
+![Dashboard Screenshot](![Uploading Screenshot 2026-06-04 114121.png…]()
 )
 
 *(Replace `screenshot.png` with your actual screenshot file name in the repo)*
@@ -14,10 +14,10 @@ This project includes an interactive Streamlit dashboard where users can input s
 ---
 
 ## ✨ Features
-- Predicts final exam score (G3) based on study time, absences, and previous grades (G1, G2).
-- Interactive Streamlit dashboard for user-friendly input.
-- Model evaluation metrics: MAE, RMSE, R².
-- Clean and modular code structure.
+- Predicts final exam score using key academic and behavioral factors.
+- Interactive Streamlit dashboard with sliders and numeric inputs.
+- Simple and user-friendly interface.
+- Model evaluation metrics included (MAE, RMSE, R²).
 
 ---
 
